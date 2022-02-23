@@ -41,6 +41,9 @@
 		</dependencies>
 	</dependencyManagement>
 
+
+
+<!--	drfret-->
 	<build>
 		<plugins>
 			<plugin>
@@ -49,5 +52,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
